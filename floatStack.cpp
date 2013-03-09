@@ -222,6 +222,11 @@ class Stack
 			return top->nextMin->value;
 		}
 
+		float getMode()
+		{
+			return (rope->nextBuckets)->bucketValue;
+		}
+
 		void show(){
 			Node * tmp=top;
 			while(tmp->next!=NULL){
