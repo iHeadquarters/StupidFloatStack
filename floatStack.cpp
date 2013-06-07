@@ -3,6 +3,7 @@
 * Hmmmmmmmmmm, I am a good Chinglisher~~
 * This GARBAGE is created by iHeadquarters 
 * From 2013-03-08 to 2013-03-09 
+* test for Git @Sohu-inc.com
 */
 
 #include "stdafx.h"
